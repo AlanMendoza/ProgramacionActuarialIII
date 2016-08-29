@@ -1,0 +1,26 @@
+---
+title: "Kardex"
+author: "Alan Antonio De Jesús Mendoza"
+date: "29 de agosto de 2016"
+output: html_document
+---
+##Primer Semestre - Otoño 2015
+  - Conceptos de Cálculo: 8
+  - Matemáticas Básicas: 7
+  - Problemas de Matemáticas Básicas: 7
+  - Programación Actuarial I: 10
+  - Introducción a la Profesión Actuarial: 6
+  - DHPC: 9
+
+##Segundo Semestre - Primavera 2016
+  - Cáculo Diferencial: 6
+  - Teoría de Ecuaciones: 9
+  - Programacion Actuarial II: 6
+  - Teoría del Interés I: 8
+  
+##Tercer Semestre - Otoño 2016
+  - Cálculo Integral
+  - Álgebra Lineal
+  - Programación Actuarial III
+  - Teoría del Interés II
+  - Formación Humana y Social
